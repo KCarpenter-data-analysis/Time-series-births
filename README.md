@@ -15,10 +15,7 @@ The project analyses aspects of data on live births and fertility rates over tim
 Python within a Jupyter Notebook. 
 
 **Data Sources:**
--	Historic electricity demand data came from the National Grid ESO Data Portal at https://www.nationalgrideso.com/data-portal/historic-demand-data.
--	Weather data was sourced from the Met Office’s Midas-open dataset at https://catalogue.ceda.ac.uk/uuid/dbd451271eb04662beade68da43546e1.
--	Bank holiday data came from a UK government website https://www.gov.uk/bank-holidays.
-
+The data came from the ONS. It is available at https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2022refreshedpopulations. 
 
 
 **Next steps:**
@@ -30,6 +27,8 @@ Python within a Jupyter Notebook.
 -Read up on CARIMA models as described in article 'Projecting age-specific fertility rates by using time-series methods' https://pubmed.ncbi.nlm.nih.gov/12316169/.
 
 **Things I would do differently next time:** 
--	In retrospect I would have perhaps chosen completely different domain and dataset
+-	In retrospect I would have perhaps chosen completely different domain and dataset to 
 -	Using data on births 
 
+**REFERENCES**
+Data source: Office for National Statistics (ONS), released 23 February 2024, ONS website, statistical bulletin, Births in England and Wales: 2022 (refreshed populations)
