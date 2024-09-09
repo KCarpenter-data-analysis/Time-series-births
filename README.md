@@ -15,7 +15,7 @@ The project analyses aspects of data on live births and fertility rates over tim
 Python within a Jupyter Notebook. 
 
 **Data Sources:**
-The data came from the ONS. It is available at https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2022refreshedpopulations. 
+The data came from the ONS [Births in England and Wales: 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2022refreshedpopulations). It contains summary statistics of live births, stillbirths and fertility rates.  
 
 
 **Next steps:**
@@ -24,11 +24,7 @@ The data came from the ONS. It is available at https://www.ons.gov.uk/peoplepopu
 
 -Look at using pmdarima Auto ARIMA model to automate the calculations in creating an ARIMA model and see how the model compares with the model ARIMA(0,2,1) where I determined the p,d and q parameters. 
 
--Read up on CARIMA models as described in article 'Projecting age-specific fertility rates by using time-series methods' https://pubmed.ncbi.nlm.nih.gov/12316169/.
-
-**Things I would do differently next time:** 
--	In retrospect I would have perhaps chosen completely different domain and dataset to 
--	Using data on births 
+-Read up on CARIMA models as described in article ['Projecting age-specific fertility rates by using time-series methods'](https://pubmed.ncbi.nlm.nih.gov/12316169/).
 
 **REFERENCES**
 Data source: Office for National Statistics (ONS), released 23 February 2024, ONS website, statistical bulletin, Births in England and Wales: 2022 (refreshed populations)
